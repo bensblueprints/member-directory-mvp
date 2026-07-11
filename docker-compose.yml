@@ -1,0 +1,16 @@
+services:
+  roster:
+    build: .
+    container_name: roster
+    restart: unless-stopped
+    ports:
+      - "5367:5367"
+    environment:
+      - PORT=5367
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/roster.db
+    volumes:
+      - roster-data:/app/data
+
+volumes:
+  roster-data:
