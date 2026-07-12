@@ -12,7 +12,7 @@ Membership platforms like Glue Up charge hundreds of dollars a month to host wha
 
 Don't want to touch a terminal? Grab the packaged Windows installer (and support development):
 
-**→ [Get Roster on Whop](https://whop.com/onetime-suite)** — pay once, own it forever.
+**→ [Get Roster on Whop](https://whop.com/benjisaiempire/roster-app)** — pay once, own it forever.
 
 ## Features
 
