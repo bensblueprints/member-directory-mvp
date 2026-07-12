@@ -63,3 +63,7 @@ One year of Glue Up ≈ **$1,500+**. Roster pays for itself before lunch.
 ## License
 
 MIT © 2026 Ben (bensblueprints)
+
+## macOS build
+
+See [MAC-BUILD.md](MAC-BUILD.md). Quickest path: GitHub **Actions** tab -> run the **Mac Build** (`mac-build.yml`) workflow to get a downloadable `.dmg` (unsigned - right-click -> Open on first launch).
