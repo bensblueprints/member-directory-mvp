@@ -1,5 +1,9 @@
 # 👥 Roster
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **The member directory you buy once and own forever.** A self-hosted, searchable directory for associations, alumni groups, clubs and communities: member profiles with your own custom fields, chapters, search and filtering, bulk CSV import/export, renewal tracking, and magic-link self-serve editing so members keep their own profiles current — without you retyping a spreadsheet.
